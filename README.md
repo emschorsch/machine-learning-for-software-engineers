@@ -2,23 +2,6 @@
 
 ## What is it?
 
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
-
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
-This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
-
-Please, feel free to make any contributions you feel will make it better.
-
----
-
-## Table of Contents
-
-- [The Daily Plan](#the-daily-plan)
-- [Motivation](#motivation)
-- [Machine learning is fun](#machine-learning-is-fun)
-- [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
-- [MOOC](#mooc)
-
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
@@ -29,10 +12,6 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 - [x] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## The Daily Plan
-
-Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
-
-Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python or R.
 
 # Motivation
 - [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
