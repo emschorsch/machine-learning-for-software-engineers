@@ -19,53 +19,12 @@ Please, feel free to make any contributions you feel will make it better.
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
 - [MOOC](#mooc)
 
----
-
-## Why use it?
-
- It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Follow me
 I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
 
 How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
 
-I'm on the journey.
-
-- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck |
-
-## Don't feel you aren't smart enough
-I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
-
-- [What if I’m Not Good at Mathematics](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
-- [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
-- [How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
-
-## About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
-
-## Prerequisite Knowledge
-
-This short section consists of prerequisites/interesting info I wanted to learn before getting started on the daily plan.
-
-- [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-- [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [x] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
