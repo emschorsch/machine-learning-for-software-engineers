@@ -13,35 +13,11 @@ Please, feel free to make any contributions you feel will make it better.
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Follow me](#follow-me)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
 - [Motivation](#motivation)
-- [Machine learning overview](#machine-learning-overview)
-- [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
-- [Inky Machine Learning](#inky-machine-learning)
-- [Machine Learning: An In-Depth Guide](#machine-learning-an-in-depth-guide)
-- [Stories and experiences](#stories-and-experiences)
-- [Machine Learning Algorithms](#machine-learning-algorithms)
-- [Beginner Books](#beginner-books)
-- [Practical Books](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
-- [Video Series](#video-series)
 - [MOOC](#mooc)
-- [Resources](#resources)
-- [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
-- [Games](#games)
-- [Podcasts](#podcasts)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Interview Questions](#interview-questions)
-- [My admired companies](#my-admired-companies)
 
 ---
 
