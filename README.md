@@ -24,10 +24,18 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 - [ ] [machine learning tribes](https://machinelearningmastery.com/machine-learning-tribe/). I'm probably engineer using ML. Or general researcher that wants to model their problem.
 
-## Kaggle knowledge competitions
-- [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
+## Kaggle setup
+- [x] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/). Revisit this!!
 - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
+
+## Kaggle knowledge competitions
+- [ ] [Titanic dataset](https://www.kaggle.com/c/titanic). Easy ML, easy coding. Lots of tutorials.
+- [ ] [first step with julia](https://www.kaggle.com/c/street-view-getting-started-with-julia). lots of tutorials. Some programming.
+- [ ] [digit recognizer](https://www.kaggle.com/c/digit-recognizer). Less hand holding. Medium ML. Medium coding.
+- [ ] [fb recruiting bot or not](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot) seems interesting! Richest dataset out there. Medium difficulty.
+- [ ] [bag of words meet bag of popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) difficult ML. tutorials out there.
+- [ ] [denoising dirty documents](https://www.kaggle.com/c/denoising-dirty-documents). Hard. no tutorials.
 - [ ] Pick a Kaggle project.
 - [ ] Build a simple logistic model.
 - [ ] Build a a simple DNN.
@@ -40,6 +48,9 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 - [ ] [Practice with UCI datasets](http://machinelearningmastery.com/practice-machine-learning-with-small-in-memory-datasets-from-the-uci-machine-learning-repository/)
 - [ ] [UCI datasets](http://machinelearningmastery.com/practice-machine-learning-with-small-in-memory-datasets-from-the-uci-machine-learning-repository/)
 - [ ] [KDD cup](https://www.kdd.org/kdd-cup)
+
+## Maybe Kaggle projects
+- [ ] [taxi trajectory](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i) easy ML. Coding heavy. Not interesting.
 
 ## Machine learning overview
 - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
