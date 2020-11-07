@@ -18,10 +18,11 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 
 ## Machine learning mastery
 - [x] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [x] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+- [ ] [machine learning tribes](https://machinelearningmastery.com/machine-learning-tribe/). I'm probably engineer using ML. Or general researcher that wants to model their problem.
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -36,6 +37,9 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 
 ## Projects
 - [ ] Train a ML model to learn addition.
+- [ ] [Practice with UCI datasets](http://machinelearningmastery.com/practice-machine-learning-with-small-in-memory-datasets-from-the-uci-machine-learning-repository/)
+- [ ] [UCI datasets](http://machinelearningmastery.com/practice-machine-learning-with-small-in-memory-datasets-from-the-uci-machine-learning-repository/)
+- [ ] [KDD cup](https://www.kdd.org/kdd-cup)
 
 ## Machine learning overview
 - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
